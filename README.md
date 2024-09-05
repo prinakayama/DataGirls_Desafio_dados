@@ -1,7 +1,7 @@
 <h1 align="center">
     
 <p align="center">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="12%" height="15%"/>
+<img src= "https://github.com/user-attachments/assets/cd02e81e-7b2c-4412-8846-611e84d1f060" " width="32%" height="25%"/>
 
 
 <h1 align="center"><b>Repositório do Projeto Final do Bootcamp RE(START)</b></h1>
