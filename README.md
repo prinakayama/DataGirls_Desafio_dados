@@ -19,7 +19,7 @@
 
  ### Laysa 
 
- ### Milene 
+ ### Suzan 
 
  + Priscila Nakayama  - [Github](https://github.com/prinakayama) | [LinkedIn](https://www.linkedin.com/in/priscila-nakayama/)
 
