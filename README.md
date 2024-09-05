@@ -1,7 +1,7 @@
 <h1 align="center">
     
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/cd02e81e-7b2c-4412-8846-611e84d1f060" " width="32%" height="25%"/>
+<img src= "https://github.com/user-attachments/assets/cd02e81e-7b2c-4412-8846-611e84d1f060" " width="42%" height="35%"/>
 
 
 <h1 align="center"><b>Repositório do Projeto Final do Bootcamp RE(START)</b></h1>
