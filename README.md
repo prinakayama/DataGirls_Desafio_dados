@@ -13,14 +13,10 @@
 
 <h3>Participantes:</h3>
 
- ### Bianca 
-
- ### Carol
-
  ### Laysa 
 
- ### Suzan 
+ ### Suzana
 
  + Priscila Nakayama  - [Github](https://github.com/prinakayama) | [LinkedIn](https://www.linkedin.com/in/priscila-nakayama/)
 
-<h3>Ferramentas utilizadas:</h3>
+
