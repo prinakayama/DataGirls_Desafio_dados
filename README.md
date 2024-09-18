@@ -9,9 +9,9 @@
 
 <p align="center"> 
 
+Este projeto tem como objetivo a realização de um processo de ETL da base do DataHackers State of data Brazil 2023 como desafio do Bootcamp Re Start Data Girls.
 
-
-<h3>Participantes:</h3>
+<h3>Este trabalho foi feito por:</h3>
 
  ### Laysa 
 
